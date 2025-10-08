@@ -1,0 +1,243 @@
+=== Gide - STRING v12 full ===
+
+>> Unique to ORA (180):
+Activation of BH3-only Proteins
+Anti-inflammatory Response Favouring Leishmania Parasite Infection
+Antigen Activates B Cell Receptor (BCR) Leading to Generation of Second Messengers
+Antigen Presentation Folding, Assembly and Peptide Loading of Class I MHC
+Antigen processing-Cross Presentation
+Apoptosis
+Bacterial Infection Pathways
+C-type Lectin Receptors (CLRs)
+CD209 (DC-SIGN) Signaling
+CD28 Dependent PI3K Akt Signaling
+CTLA4 Inhibitory Signaling
+Cargo Recognition for Clathrin-Mediated Endocytosis
+Cell Recruitment (Pro-Inflammatory Response)
+Cell Surface Interactions at the Vascular Wall
+Cell-Cell Communication
+Cellular Response to Chemical Stress
+Cellular Responses to Mechanical Stimuli
+Cellular Senescence
+Class A 1 (Rhodopsin-like Receptors)
+Clathrin-mediated Endocytosis
+Constitutive Signaling by Aberrant PI3K in Cancer
+Constitutive Signaling by EGFRvIII
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants
+Costimulation by the CD28 Family
+DAP12 Signaling
+Diseases Associated With the TLR Signaling Cascade
+Diseases of Immune System
+Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+Downregulation of ERBB2 Signaling
+Downstream Signaling of Activated FGFR1
+Downstream Signaling of Activated FGFR4
+Downstream TCR Signaling
+ER-Phagosome Pathway
+ESR-mediated Signaling
+Estrogen-dependent Nuclear Events Downstream of ESR-membrane Signaling
+Extra-nuclear Estrogen Signaling
+Extracellular Matrix Organization
+FCGR Activation
+FCGR3A-mediated IL10 Synthesis
+FCGR3A-mediated Phagocytosis
+FGFR1 Mutant Receptor Activation
+Fc Epsilon Receptor (FCERI) Signaling
+Fcgamma Receptor (FCGR) Dependent Phagocytosis
+G Alpha (I) Signalling Events
+GAB1 Signalosome
+GPCR Ligand Binding
+GPVI-mediated Activation Cascade
+Generation of Second Messenger Molecules
+Growth Hormone Receptor Signaling
+HIV Infection
+High Laminar Flow Shear Stress Activates Signaling by PIEZO1 and PECAM1 CDH5 KDR in Endothelial Cell
+Host Interactions of HIV Factors
+IGF1R Signaling Cascade
+IRS-mediated Signalling
+IRS-related Events Triggered by IGF1R
+Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell
+Inactivation of CSF3 (G-CSF) Signaling
+Insulin Receptor Signalling Cascade
+Integrin Cell Surface Interactions
+Integrin Signaling
+Interferon Alpha Beta Signaling
+Interferon Gamma Signaling
+Interferon Signaling
+Interleukin Receptor SHC Signaling
+Interleukin-1 Family Signaling
+Interleukin-12 Family Signaling
+Interleukin-4 and Interleukin-13 Signaling
+Intracellular Signaling by Second Messengers
+Intrinsic Pathway for Apoptosis
+KEAP1-NFE2L2 Pathway
+Leishmania Infection
+Leishmania Parasite Growth and Survival
+Leishmania Phagocytosis
+Listeria Monocytogenes Entry Into Host Cells
+MAPK Family Signaling Cascades
+MAPK1 MAPK3 Signaling
+MITF-M-regulated Melanocyte Development
+NCAM Signaling for Neurite Out-Growth
+Nef-mediates Down Modulation of Cell Surface Receptors by Recruiting Them to Clathrin Adapters
+Negative Regulation of FGFR1 Signaling
+Negative Regulation of FGFR4 Signaling
+Negative Regulation of the PI3K AKT Network
+Neutrophil Degranulation
+Nuclear Events Stimulated by ALK Signaling in Cancer
+Other Interleukin Signaling
+PD-1 Signaling
+PI-3K Cascade FGFR1
+PI-3K Cascade FGFR4
+PI3K AKT Signaling in Cancer
+PI3K Events in ERBB2 Signaling
+PI5P, PP2A and IER3 Regulate PI3K AKT Signaling
+PIP3 Activates AKT Signaling
+Paradoxical Activation of RAF Signaling by Kinase Inactive BRAF
+Parasite Infection
+Parasitic Infection Pathways
+Peptide Ligand-Binding Receptors
+Phosphorylation of CD3 and TCR Zeta Chains
+Platelet Activation, Signaling and Aggregation
+Platelet Aggregation (Plug Formation)
+Potential Therapeutics for SARS
+Programmed Cell Death
+Prolactin Receptor Signaling
+Purinergic Signaling in Leishmaniasis Infection
+Pyroptosis
+RAF Activation
+RAF MAP Kinase Cascade
+RET Signaling
+RSV-host Interactions
+Regulated Necrosis
+Regulation of IFNA IFNB Signaling
+Regulation of KIT Signaling
+Regulation of RUNX1 Expression and Activity
+Respiratory Syncytial Virus Infection Pathway
+Response of Endothelial Cells to Shear Stress
+Role of LAT2 NTAL LAB on Calcium Mobilization
+Role of Phospholipids in Phagocytosis
+SARS-CoV Infections
+SARS-CoV-2 Activates Modulates Innate and Adaptive Immune Responses
+SARS-CoV-2 Infection
+SARS-CoV-2-host Interactions
+SHC1 Events in ERBB2 Signaling
+Semaphorin Interactions
+Senescence-Associated Secretory Phenotype (SASP)
+Signal Regulatory Protein Family Interactions
+Signaling Downstream of RAS Mutants
+Signaling by ALK
+Signaling by ALK Fusions and Activated Point Mutants
+Signaling by ALK in Cancer
+Signaling by BRAF and RAF1 Fusions
+Signaling by CSF3 (G-CSF)
+Signaling by EGFR
+Signaling by EGFR in Cancer
+Signaling by EGFRvIII in Cancer
+Signaling by ERBB2
+Signaling by ERBB2 ECD Mutants
+Signaling by ERBB2 KD Mutants
+Signaling by ERBB2 in Cancer
+Signaling by ERBB4
+Signaling by FGFR
+Signaling by FGFR in Disease
+Signaling by FGFR1
+Signaling by FGFR1 in Disease
+Signaling by FGFR2
+Signaling by FGFR3
+Signaling by FGFR4
+Signaling by FLT3 ITD and TKD Mutants
+Signaling by Insulin Receptor
+Signaling by Interleukins
+Signaling by KIT in Disease
+Signaling by Ligand-Responsive EGFR Variants in Cancer
+Signaling by MET
+Signaling by Moderate Kinase Activity BRAF Mutants
+Signaling by NOTCH
+Signaling by NTRK1 (TRKA)
+Signaling by NTRK2 (TRKB)
+Signaling by NTRKs
+Signaling by Non-Receptor Tyrosine Kinases
+Signaling by Nuclear Receptors
+Signaling by PDGF
+Signaling by PDGFR in Disease
+Signaling by PTK6
+Signaling by Phosphorylated Juxtamembrane, Extracellular and Kinase Domain KIT Mutants
+Signaling by RAF1 Mutants
+Signaling by RAS Mutants
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+Signaling by VEGF
+Signaling by the B Cell Receptor (BCR)
+Signalling to ERKs
+TCR Signaling
+TNFR2 Non-Canonical NF-kB Pathway
+The Role of Nef in HIV-1 Replication and Disease Pathogenesis
+Toll Like Receptor 4 (TLR4) Cascade
+Toll-like Receptor Cascades
+Transcriptional Regulation by RUNX1
+Transcriptional Regulation by RUNX2
+Transcriptional Regulation by RUNX3
+Transcriptional Regulation by VENTX
+Translocation of ZAP-70 to Immunological Synapse
+VEGFA-VEGFR2 Pathway
+VEGFR2 Mediated Vascular Permeability
+
+>> Unique to wORA (0):
+
+
+>> Unique to GSEA (12):
+Activated Point Mutants of FGFR2
+Caspase Activation via Death Receptors in the Presence of Ligand
+Evasion by RSV of Host Interferon Responses
+FRS-mediated FGFR2 Signaling
+FRS-mediated FGFR3 Signaling
+Phospholipase C-mediated Cascade; FGFR2
+Regulation of NF-kappa B Signaling
+SHC-mediated Cascade FGFR2
+SHC-mediated Cascade FGFR3
+Signalling to RAS
+TNF Receptor Superfamily (TNFSF) Members Mediating Non-Canonical NF-kB Pathway
+p75NTR Signals via NF-kB
+
+>> ORA ∩ wORA (0):
+
+
+>> ORA ∩ GSEA (31):
+CD28 Co-Stimulation
+DAP12 Interactions
+Downstream Signal Transduction
+Downstream Signaling of Activated FGFR2
+Downstream Signaling of Activated FGFR3
+FLT3 Signaling
+FLT3 Signaling in Disease
+GRB2 Events in ERBB2 Signaling
+Interleukin-10 Signaling
+Interleukin-2 Family Signaling
+Interleukin-20 Family Signaling
+Interleukin-3, Interleukin-5 and GM-CSF Signaling
+Interleukin-6 Family Signaling
+Interleukin-7 Signaling
+Negative Regulation of FGFR2 Signaling
+Negative Regulation of FGFR3 Signaling
+PI-3K Cascade FGFR2
+PI-3K Cascade FGFR3
+RAF-independent MAPK1 3 Activation
+Regulation of Signaling by CBL
+Signaling by CSF1 (M-CSF) in Myeloid Cells
+Signaling by Cytosolic FGFR1 Fusion Mutants
+Signaling by ERBB2 TMD JMD Mutants
+Signaling by Erythropoietin
+Signaling by FGFR3 in Disease
+Signaling by FLT3 Fusion Proteins
+Signaling by NTRK3 (TRKC)
+Signaling by SCF-KIT
+Spry Regulation of FGF Signaling
+TNFs Bind Their Physiological Receptors
+Tie2 Signaling
+
+>> wORA ∩ GSEA (0):
+
+
+>> ORA ∩ wORA ∩ GSEA (1):
+Chemokine Receptors Bind Chemokines
+

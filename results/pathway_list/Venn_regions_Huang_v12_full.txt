@@ -1,0 +1,40 @@
+=== Huang - STRING v12 full ===
+
+>> Unique to ORA (6):
+Adaptive Immune System
+Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+Interleukin-2 Family Signaling
+Negative Regulation of the PI3K AKT Network
+Signaling by ALK Fusions and Activated Point Mutants
+Signaling by ALK in Cancer
+
+>> Unique to wORA (4):
+Cell Surface Interactions at the Vascular Wall
+Developmental Biology
+Hemostasis
+Innate Immune System
+
+>> Unique to GSEA (0):
+
+
+>> ORA ∩ wORA (7):
+Class A 1 (Rhodopsin-like Receptors)
+G Alpha (I) Signalling Events
+GPCR Downstream Signalling
+GPCR Ligand Binding
+Interleukin-4 and Interleukin-13 Signaling
+Peptide Ligand-Binding Receptors
+Signaling by GPCR
+
+>> ORA ∩ GSEA (1):
+Costimulation by the CD28 Family
+
+>> wORA ∩ GSEA (0):
+
+
+>> ORA ∩ wORA ∩ GSEA (4):
+Chemokine Receptors Bind Chemokines
+Cytokine Signaling in Immune System
+Interleukin-10 Signaling
+Signaling by Interleukins
+

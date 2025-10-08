@@ -1,0 +1,78 @@
+=== PEOPLE - STRING v12 physical ===
+
+>> Unique to ORA (8):
+DAP12 Interactions
+Infectious Disease
+Interleukin-2 Family Signaling
+Interleukin-3, Interleukin-5 and GM-CSF Signaling
+MAPK1 MAPK3 Signaling
+Negative Regulation of the PI3K AKT Network
+PD-1 Signaling
+PI3K AKT Signaling in Cancer
+
+>> Unique to wORA (36):
+Antigen processing-Cross Presentation
+Apoptosis
+Cellular Responses to Mechanical Stimuli
+Cellular Responses to Stimuli
+Cellular Responses to Stress
+DDX58 IFIH1-mediated Induction of Interferon-Alpha Beta
+Death Receptor Signaling
+Deubiquitination
+Developmental Biology
+Diseases Associated With the TLR Signaling Cascade
+Diseases of Immune System
+Extracellular Matrix Organization
+Innate Immune System
+Interleukin-1 Signaling
+MyD88 Cascade Initiated on Plasma Membrane
+MyD88 Dependent Cascade Initiated on Endosome
+MyD88 MAL(TIRAP) Cascade Initiated on Plasma Membrane
+Neutrophil Degranulation
+Nucleotide-binding Domain, Leucine Rich Repeat Containing Receptor (NLR) Signaling Pathways
+Platelet Degranulation
+Post-translational Protein Modification
+Programmed Cell Death
+RAF MAP Kinase Cascade
+Regulated Necrosis
+Response of Endothelial Cells to Shear Stress
+Response to Elevated Platelet Cytosolic Ca2+
+Signaling by TGFB Family Members
+TRAF6 Mediated Induction of NFkB and MAP Kinases Upon TLR7 8 or 9 Activation
+Toll Like Receptor 10 (TLR10) Cascade
+Toll Like Receptor 2 (TLR2) Cascade
+Toll Like Receptor 3 (TLR3) Cascade
+Toll Like Receptor 5 (TLR5) Cascade
+Toll Like Receptor 7 8 (TLR7 8) Cascade
+Toll Like Receptor 9 (TLR9) Cascade
+Toll Like Receptor TLR1 TLR2 Cascade
+Toll Like Receptor TLR6 TLR2 Cascade
+
+>> Unique to GSEA (0):
+
+
+>> ORA ∩ wORA (9):
+Cell Surface Interactions at the Vascular Wall
+Downstream TCR Signaling
+Generation of Second Messenger Molecules
+Hemostasis
+Interleukin-4 and Interleukin-13 Signaling
+MHC Class II Antigen Presentation
+Phosphorylation of CD3 and TCR Zeta Chains
+TCR Signaling
+Translocation of ZAP-70 to Immunological Synapse
+
+>> ORA ∩ GSEA (5):
+Adaptive Immune System
+Constitutive Signaling by Aberrant PI3K in Cancer
+Costimulation by the CD28 Family
+PI5P, PP2A and IER3 Regulate PI3K AKT Signaling
+Signaling by Interleukins
+
+>> wORA ∩ GSEA (0):
+
+
+>> ORA ∩ wORA ∩ GSEA (2):
+Cytokine Signaling in Immune System
+Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell
+

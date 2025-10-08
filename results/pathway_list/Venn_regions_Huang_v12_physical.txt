@@ -1,0 +1,50 @@
+=== Huang - STRING v12 physical ===
+
+>> Unique to ORA (7):
+Constitutive Signaling by Aberrant PI3K in Cancer
+Cytokine Signaling in Immune System
+Interleukin-3, Interleukin-5 and GM-CSF Signaling
+Negative Regulation of the PI3K AKT Network
+PI3K AKT Signaling in Cancer
+PI5P, PP2A and IER3 Regulate PI3K AKT Signaling
+Signaling by Interleukins
+
+>> Unique to wORA (20):
+Apoptosis
+Cellular Responses to Stimuli
+Chemokine Receptors Bind Chemokines
+Class A 1 (Rhodopsin-like Receptors)
+Developmental Biology
+Downstream TCR Signaling
+G Alpha (I) Signalling Events
+GPCR Ligand Binding
+Hemostasis
+Innate Immune System
+Interleukin-4 and Interleukin-13 Signaling
+MAPK Family Signaling Cascades
+MAPK1 MAPK3 Signaling
+Peptide Ligand-Binding Receptors
+Post-translational Protein Modification
+Programmed Cell Death
+Regulated Necrosis
+TCR Signaling
+Toll Like Receptor 4 (TLR4) Cascade
+Toll-like Receptor Cascades
+
+>> Unique to GSEA (0):
+
+
+>> ORA ∩ wORA (1):
+Cell Surface Interactions at the Vascular Wall
+
+>> ORA ∩ GSEA (3):
+Adaptive Immune System
+Costimulation by the CD28 Family
+Interleukin-2 Family Signaling
+
+>> wORA ∩ GSEA (0):
+
+
+>> ORA ∩ wORA ∩ GSEA (1):
+Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell
+
