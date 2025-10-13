@@ -1,0 +1,218 @@
+=== Riaz - STRING v12 full ===
+
+>> Unique to ORA (102):
+Anti-inflammatory Response Favouring Leishmania Parasite Infection
+Antigen Activates B Cell Receptor (BCR) Leading to Generation of Second Messengers
+Antigen Presentation Folding, Assembly and Peptide Loading of Class I MHC
+Antigen processing-Cross Presentation
+C-type Lectin Receptors (CLRs)
+CD28 Co-Stimulation
+CTLA4 Inhibitory Signaling
+Cell-Cell Communication
+Constitutive Signaling by Aberrant PI3K in Cancer
+Constitutive Signaling by EGFRvIII
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants
+Costimulation by the CD28 Family
+Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers
+Downstream Signaling of Activated FGFR4
+Downstream TCR Signaling
+ER-Phagosome Pathway
+Extra-nuclear Estrogen Signaling
+FCGR3A-mediated IL10 Synthesis
+FCGR3A-mediated Phagocytosis
+FGFR1 Mutant Receptor Activation
+FLT3 Signaling
+Fcgamma Receptor (FCGR) Dependent Phagocytosis
+G Alpha (I) Signalling Events
+GPVI-mediated Activation Cascade
+Growth Hormone Receptor Signaling
+High Laminar Flow Shear Stress Activates Signaling by PIEZO1 and PECAM1 CDH5 KDR in Endothelial Cell
+IGF1R Signaling Cascade
+IRS-mediated Signalling
+Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell
+Insulin Receptor Signalling Cascade
+Integrin Cell Surface Interactions
+Integrin Signaling
+Interferon Alpha Beta Signaling
+Interferon Gamma Signaling
+Interferon Signaling
+Interleukin-1 Family Signaling
+Interleukin-12 Family Signaling
+Interleukin-6 Family Signaling
+Intracellular Signaling by Second Messengers
+Leishmania Infection
+Leishmania Parasite Growth and Survival
+Leishmania Phagocytosis
+Negative Regulation of the PI3K AKT Network
+Nephrin Family Interactions
+Neutrophil Degranulation
+Nuclear Events Stimulated by ALK Signaling in Cancer
+Other Interleukin Signaling
+PD-1 Signaling
+PI3K AKT Signaling in Cancer
+PI3K Cascade
+PI3K Events in ERBB2 Signaling
+PI5P, PP2A and IER3 Regulate PI3K AKT Signaling
+PIP3 Activates AKT Signaling
+Parasite Infection
+Parasitic Infection Pathways
+Phosphorylation of CD3 and TCR Zeta Chains
+Platelet Aggregation (Plug Formation)
+Programmed Cell Death
+RET Signaling
+Regulated Necrosis
+Regulation of Actin Dynamics for Phagocytic Cup Formation
+Respiratory Syncytial Virus Infection Pathway
+Role of Phospholipids in Phagocytosis
+SARS-CoV Infections
+SARS-CoV-2 Activates Modulates Innate and Adaptive Immune Responses
+SARS-CoV-2 Infection
+SARS-CoV-2-host Interactions
+SHC1 Events in ERBB2 Signaling
+Signal Regulatory Protein Family Interactions
+Signaling by ALK
+Signaling by ALK Fusions and Activated Point Mutants
+Signaling by ALK in Cancer
+Signaling by Cytosolic FGFR1 Fusion Mutants
+Signaling by EGFR
+Signaling by EGFR in Cancer
+Signaling by EGFRvIII in Cancer
+Signaling by ERBB2
+Signaling by ERBB2 ECD Mutants
+Signaling by ERBB2 KD Mutants
+Signaling by ERBB2 TMD JMD Mutants
+Signaling by ERBB2 in Cancer
+Signaling by ERBB4
+Signaling by FGFR in Disease
+Signaling by FGFR1 in Disease
+Signaling by FGFR3
+Signaling by FGFR4
+Signaling by FLT3 Fusion Proteins
+Signaling by Ligand-Responsive EGFR Variants in Cancer
+Signaling by MET
+Signaling by NTRK2 (TRKB)
+Signaling by NTRKs
+Signaling by PDGF
+Signaling by PDGFR in Disease
+Signaling by SCF-KIT
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+Signaling by the B Cell Receptor (BCR)
+TCR Signaling
+TNFR2 Non-Canonical NF-kB Pathway
+The Role of Nef in HIV-1 Replication and Disease Pathogenesis
+Toll Like Receptor 4 (TLR4) Cascade
+Toll-like Receptor Cascades
+Translocation of ZAP-70 to Immunological Synapse
+
+>> Unique to wORA (24):
+B-WICH Complex Positively Regulates rRNA Expression
+Cooperation of Prefoldin and TriC CCT in Actin and Tubulin Folding
+DDX58 IFIH1-mediated Induction of Interferon-Alpha Beta
+DNA Damage Recognition in GG-NER
+Deubiquitination
+Epigenetic Regulation of Gene Expression
+Estrogen-dependent Gene Expression
+Gap Junction Trafficking
+Global Genome Nucleotide Excision Repair (GG-NER)
+HATs Acetylate Histones
+Interaction Between L1 and Ankyrins
+MyD88 MAL(TIRAP) Cascade Initiated on Plasma Membrane
+Nucleotide Excision Repair
+Positive Epigenetic Regulation of rRNA Expression
+Prefoldin Mediated Transfer of Substrate to CCT TriC
+Regulation of Endogenous Retroelements
+Regulation of Endogenous Retroelements by Piwi-interacting RNAs (piRNAs)
+Sensory Perception
+Sensory Processing of Sound
+Sensory Processing of Sound by Inner Hair Cells of the Cochlea
+Sensory Processing of Sound by Outer Hair Cells of the Cochlea
+Toll Like Receptor 2 (TLR2) Cascade
+Toll Like Receptor TLR1 TLR2 Cascade
+Toll Like Receptor TLR6 TLR2 Cascade
+
+>> Unique to GSEA (24):
+Activated Point Mutants of FGFR2
+Defensins
+Downstream Signaling of Activated FGFR2
+Evasion by RSV of Host Interferon Responses
+FRS-mediated FGFR1 Signaling
+FRS-mediated FGFR2 Signaling
+FRS-mediated FGFR3 Signaling
+FRS-mediated FGFR4 Signaling
+Gastrin-CREB Signalling Pathway via PKC and MAPK
+Negative Regulation of FGFR2 Signaling
+Negative Regulation of FGFR3 Signaling
+PI-3K Cascade FGFR1
+PI-3K Cascade FGFR2
+PI-3K Cascade FGFR3
+PI-3K Cascade FGFR4
+Phospholipase C-mediated Cascade; FGFR2
+Phospholipase C-mediated Cascade; FGFR4
+Regulation of NF-kappa B Signaling
+SHC-mediated Cascade FGFR2
+SHC-mediated Cascade FGFR3
+SHC-mediated Cascade FGFR4
+Signaling by FGFR3 in Disease
+TNF Receptor Superfamily (TNFSF) Members Mediating Non-Canonical NF-kB Pathway
+p75NTR Signals via NF-kB
+
+>> ORA ∩ wORA (23):
+Cell Surface Interactions at the Vascular Wall
+Cellular Responses to Mechanical Stimuli
+Class A 1 (Rhodopsin-like Receptors)
+ESR-mediated Signaling
+FCERI Mediated Ca+2 Mobilization
+FCERI Mediated MAPK Activation
+Fc Epsilon Receptor (FCERI) Signaling
+GPCR Ligand Binding
+Inactivation of CSF3 (G-CSF) Signaling
+Interleukin-4 and Interleukin-13 Signaling
+Interleukin-7 Signaling
+MAPK Family Signaling Cascades
+MAPK1 MAPK3 Signaling
+Peptide Ligand-Binding Receptors
+Platelet Activation, Signaling and Aggregation
+RAF MAP Kinase Cascade
+Response of Endothelial Cells to Shear Stress
+Signaling by Interleukins
+Signaling by KIT in Disease
+Signaling by Nuclear Receptors
+Signaling by Phosphorylated Juxtamembrane, Extracellular and Kinase Domain KIT Mutants
+Signaling by VEGF
+VEGFA-VEGFR2 Pathway
+
+>> ORA ∩ GSEA (19):
+CD28 Dependent PI3K Akt Signaling
+Downstream Signal Transduction
+Downstream Signaling of Activated FGFR3
+FLT3 Signaling in Disease
+GAB1 Signalosome
+Generation of Second Messenger Molecules
+Interleukin-10 Signaling
+Interleukin-20 Family Signaling
+Nef-mediates Down Modulation of Cell Surface Receptors by Recruiting Them to Clathrin Adapters
+Potential Therapeutics for SARS
+RAF-independent MAPK1 3 Activation
+Regulation of IFNA IFNB Signaling
+Regulation of KIT Signaling
+Signaling by CSF1 (M-CSF) in Myeloid Cells
+Signaling by CSF3 (G-CSF)
+Signaling by FLT3 ITD and TKD Mutants
+Signaling by NTRK3 (TRKC)
+TNFs Bind Their Physiological Receptors
+Tie2 Signaling
+
+>> wORA ∩ GSEA (0):
+
+
+>> ORA ∩ wORA ∩ GSEA (9):
+Chemokine Receptors Bind Chemokines
+DAP12 Interactions
+DAP12 Signaling
+Interleukin Receptor SHC Signaling
+Interleukin-2 Family Signaling
+Interleukin-3, Interleukin-5 and GM-CSF Signaling
+Regulation of Signaling by CBL
+Role of LAT2 NTAL LAB on Calcium Mobilization
+Signaling by Erythropoietin
+
