@@ -1,0 +1,39 @@
+
+=== Auslander - STRING v12 full ===
+
+>> Shared with ORA (3 / 223 = 1.3%):
+Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell
+Signaling by Non-Receptor Tyrosine Kinases
+Signaling by PTK6
+
+>> Shared with wORA (0 / 4 = 0.0%):
+(none)
+
+>> Shared with GSEA (1 / 37 = 2.7%):
+Evasion by RSV of Host Interferon Responses
+
+
+=== Riaz - STRING v12 full ===
+
+>> Shared with ORA (1 / 153 = 0.7%):
+Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell
+
+>> Shared with wORA (1 / 56 = 1.8%):
+Regulation of Endogenous Retroelements
+
+>> Shared with GSEA (1 / 52 = 1.9%):
+Evasion by RSV of Host Interferon Responses
+
+
+=== Prat - STRING v12 full ===
+
+>> Shared with ORA (2 / 12 = 16.7%):
+Costimulation by the CD28 Family
+Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell
+
+>> Shared with wORA (1 / 19 = 5.3%):
+Interferon Signaling
+
+>> Shared with GSEA (2 / 6 = 33.3%):
+Costimulation by the CD28 Family
+Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell
