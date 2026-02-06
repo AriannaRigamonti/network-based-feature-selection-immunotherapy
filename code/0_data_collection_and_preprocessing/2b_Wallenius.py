@@ -22,11 +22,11 @@ from scipy import stats as stat
 
 # ----------------------- Configuration -----------------------
 # Weighted ORA (Wallenius) reproducing NetBio I/O structure under /NetBio_wallenius
-STUDIES = ["Gide", "Liu", "Huang", "Kim", "IMvigor210", "Auslander", "Riaz", "Prat", "PEOPLE", "Ravi"]
+STUDIES = ["Gide", "Liu", "Huang", "Kim", "IMvigor210", "Auslander", "Riaz", "Prat", "Ravi"]
 TARGET_BY_STUDY = {
     "Gide": "PD1_CTLA4", "Liu": "PD1", "Huang": "PD1", "Kim": "PD1",
     "IMvigor210": "PD-L1", "Auslander": "PD1_CTLA4", "Riaz": "PD1",
-    "Prat": "PD1", "PEOPLE": "PD1", "Ravi": "PD1_PD-L1_CTLA4",
+    "Prat": "PD1", "Ravi": "PD1_PD-L1_CTLA4",
 }
 
 VERSION      = "v12"             
