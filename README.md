@@ -5,7 +5,7 @@ Authors: Arianna Rigamonti1, Luca Mauro Invernizzi2, Ghazal Farhikhteh2, Vanja M
 1. Department of Electronic, Information and Bioengineering, Politecnico di Milano, Milan, Italy
 2. Medical Oncology Department 1, Fondazione IRCCS - Istituto Nazionale dei Tumori, Milan, Italy
 
-This repository contains the implementation of weighted pathway enrichment strategies for interpretable network-based biomarker discovery in immunotherapy response prediction. We propose two weighted pathway selection methods to reduce the number of selected pathways while maintaining predictive performance:
+This repository contains the implementation of weighted pathway enrichment strategies for interpretable network-based biomarker discovery in immunotherapy response prediction. We propose two weighted pathway selection methods:
 
 - wORA: Weighted Over-Representation Analysis using Wallenius noncentral hypergeometric distribution
 - Pre-ranked GSEA: Gene Set Enrichment Analysis with network propagation scores
