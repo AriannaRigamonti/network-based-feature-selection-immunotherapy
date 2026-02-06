@@ -88,7 +88,7 @@ FS_NJOBS  = 10
 
 # Cohort registry and target mapping (for feature file resolution)
 STUDIES = ["Gide", "Liu", "Huang", "Kim", "IMvigor210",
-           "Auslander", "Riaz", "Prat", "PEOPLE", "Ravi"]
+           "Auslander", "Riaz", "Prat", "Ravi"]
 
 TARGET_BY_STUDY = {
     "Gide": "PD1_CTLA4",
@@ -99,7 +99,6 @@ TARGET_BY_STUDY = {
     "Auslander": "PD1_CTLA4",
     "Riaz": "PD1",
     "Prat": "PD1",
-    "PEOPLE": "PD1",
     "Ravi": "PD1_PD-L1_CTLA4",
 }
 
