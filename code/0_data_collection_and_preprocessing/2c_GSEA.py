@@ -95,7 +95,7 @@ from gseapy import dotplot, enrichment_map
 import networkx as nx
 
 # Configuration
-STUDIES = ["Auslander", "Gide", "Huang", "IMvigor210", "Kim", "Liu", "PEOPLE", "Prat", "Ravi", "Riaz"]
+STUDIES = ["Auslander", "Gide", "Huang", "IMvigor210", "Kim", "Liu", "Prat", "Ravi", "Riaz"]
 TARGET_BY_STUDY = {
     "Gide": "PD1_CTLA4",
     "Liu": "PD1",
@@ -105,7 +105,6 @@ TARGET_BY_STUDY = {
     "Auslander": "PD1_CTLA4",
     "Riaz": "PD1",
     "Prat": "PD1",
-    "PEOPLE": "PD1",
     "Ravi": "PD1_PD-L1_CTLA4",
 }
 
@@ -176,7 +175,7 @@ for STUDY in STUDIES:
     OUTDIR = f"data/immuno/{STUDY}"
 
     # Assign GSEA weighting and FDR cutoff
-    if STUDY in ("Huang", "Prat", "PEOPLE"):
+    if STUDY in ("Huang", "Prat"):
         WEIGHT = 0
         CUTOFF = 0.25
     else:
@@ -351,7 +350,7 @@ import time
 import numpy as np
 import pandas as pd
 
-STUDIES = ["Auslander", "Gide", "Huang", "IMvigor210", "Kim", "Liu", "PEOPLE", "Prat", "Ravi", "Riaz"]
+STUDIES = ["Auslander", "Gide", "Huang", "IMvigor210", "Kim", "Liu", "Prat", "Ravi", "Riaz"]
 VERSION = globals().get("VERSION", "v12")
 INTERACTION = globals().get("INTERACTION", "full")
 N_GENES = globals().get("N_GENES", None)
