@@ -22,7 +22,7 @@ print(f"Working directory: {os.getcwd()}")
 
 STUDIES = [
     "Auslander", "Gide", "Huang", "IMvigor210",
-    "Kim", "Liu", "PEOPLE", "Prat", "Ravi", "Riaz"
+    "Kim", "Liu", "Prat", "Ravi", "Riaz"
 ]
 
 GENESET_NAME = "Reactome_Pathways_2024"
