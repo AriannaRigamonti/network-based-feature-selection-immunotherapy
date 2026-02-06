@@ -1,6 +1,6 @@
 # Weighted pathway enrichment strategies for interpretable network-based biomarker discovery in immunotherapy response prediction
 
-Authors: Arianna Rigamonti1, Luca Mauro Invernizzi2, Ghazal Farhikhteh2, Vanja Mišković1 and Arsela Prelaj2. 
+Authors: Arianna Rigamonti1, Luca Mauro Invernizzi2, Ghazal Farhikhteh2, Vanja Mišković1, Francesco Trovò1 and Arsela Prelaj2. 
 
 1. Department of Electronic, Information and Bioengineering, Politecnico di Milano, Milan, Italy
 2. Medical Oncology Department 1, Fondazione IRCCS - Istituto Nazionale dei Tumori, Milan, Italy
