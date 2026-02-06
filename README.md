@@ -25,6 +25,6 @@ Both methods incorporate gene proximity scores (obtained via network propagation
 - statsmodels 0.14.4
 
 ## Contacts
-Arianna Rigamonti - arianna.rigamonti@polimi.it; Francesco Trovò - francesco1.trovo@polimi.it
+Arianna Rigamonti arianna.rigamonti@polimi.it - Francesco Trovò francesco1.trovo@polimi.it
 
 Department of Electronics, Information and Bioengineering, Politecnico di Milano, Milan, Italy
